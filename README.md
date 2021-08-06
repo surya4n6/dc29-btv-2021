@@ -8,5 +8,5 @@ This intro-level workshop covers topics present in Digital Forensics LifeCycle l
 
 ## Workshop Resources
 - Slides
-- Lab Manual
+- [Lab Manual](https://docs.google.com/document/d/1J0mGDdY7BCITgAlui0tZd30A_rrEfR4ph7JanjjX9F4/edit?usp=sharing)
 - [Download Lab Files](https://drive.google.com/drive/folders/1AP_F14xEY6-8edmriaUAytmSS6f_OtDF?usp=sharing)
